@@ -1,0 +1,115 @@
+{
+    "appetizers": [
+        {
+            "name": "Mozzarella Sticks",
+            "ingredients": ["Mozzarella Cheese", "Asiago Cheese"],
+            "description": "Mozzarella and Asiago cheese. Sprinkled with Parmesan-Romano. Served with marinara sauce."
+        },
+        {
+            "name": "Loaded Potato Skins",
+            "ingredients": [
+                "White Potatoes", "Cheese", "Crispy Bacon"
+            ],
+            "description": "Crispy Maine-Grown white potatoes topped with a layer of melted mozzarella, cheddar, and crispy bacon. Served with Ranch sour cream topped with green onions."
+        },
+        {
+            "name": "Tostado Nachos",
+            "ingredients": [
+                "Tortillas", "Ground Beef", "Cheese", "Refried Beans"
+            ],
+            "description": "Crispy tortillas loaded with seasoned ground beef mixed with refried beans and melted cheese. Served with house-made guacamole, fire-roasted salsa and sour cream. Topped with spicy jalapeños."
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "Apple Creek Club",
+            "ingredients": [
+                "Bacon", "Smoked Turkey", "Apple Slices", "Cheddar Cheese", "Spinach", "House-blend Dijon Mustard"
+            ],
+            "description": "Club Sandwich"
+        },
+        {
+            "name": "Sun-dried Tomato Turkey",
+            "ingredients": [
+                "Sliced Turkey", "Cheddar Cheese", "Mixed Greens"
+            ],
+            "description": "Sliced turkey, cheddar cheese and mixed greens served on sourdough bread with sun-dried tomato spread"
+        },
+        {
+            "name": "Cafe Ham Sandwich",
+            "ingredients": [
+                "Black Forest Ham", "Cheddar Cheese", "Mixed Greens"
+            ],
+            "description": "Black forest ham, cheddar cheese and mixed greens, with savory orange/cranberry spread on wheat berry bread"
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "Chipotle Chicken Avocado Melt",
+            "ingredients": [
+                "Smoked Chicken", "Smoked Gouda", "Fresh Avocado"
+            ],
+            "description": "Smoked, pulled chicken raised without antibiotics, smoked Gouda, fresh avocado and cilantro, zesty sweet Peppadew™ piquant peppers and chipotle mayo on Black Pepper Focaccia."
+        },
+        {
+            "name": "Toasted Frontega Chicken",
+            "ingredients": [
+                "Smoked Chicken", "Mozzarella Cheese", "Tomatoes", "Red Onions", "Basil", "Chipotle Mayo"
+            ],
+            "description": "Smoked, pulled chicken raised without antibiotics, mozzarella, vine-ripened tomatoes, red onions, chopped basil and chipotle mayo all grilled on Focaccia."
+        },
+        {
+            "name": "Toasted Steak & White Cheddar",
+            "ingredients": [
+                "Steak", "Pickled Red Onions", "White Cheddar", "Horseradish Sauce"
+            ],
+            "description": "Seared steak, pickled red onions, Vermont white cheddar and horseradish sauce all grilled on Artisan Ciabatta."
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Almond Croissant",
+            "ingredients": [
+                "Butter Croissant", "Almond Cream Filling", "Sliced Almonds"
+            ],
+            "description": "A freshly baked, perfectly flaky butter croissant stuffed with almond cream filling and sliced almonds, topped with cane sugar syrup and a dusting of powdered sugar."
+        },
+        {
+            "name": "Oatmeal Raisin with Berries Cookie",
+            "ingredients": [
+                "Oatmeal Cookie", "Raisins", "Cranberries", "Strawberries"
+            ],
+            "description": "A chewy oatmeal raisin cookie with sweetened, dried cranberries and infused, dried strawberries and blueberries."
+        },
+        {
+            "name": "Pastry Ring",
+            "ingredients": [
+                "Pastry", "Cherry filling", "Apple filling", "Special Cheese filling"
+            ],
+            "description": "Freshly baked, fluted ring with cherry and apple fruit fillings and our special recipe cheese filling."
+        }
+    ],
+    "drinks": [
+        {
+            "name": "PEACHES 'N SILK",
+            "ingredients": [
+                "Peaches", "Strawberries", "Banana"
+            ],
+            "description": "peaches, strawberries & banana smoothie"
+        },
+        {
+            "name": "ACAI BERRY BOOST",
+            "ingredients": [
+                "Acai", "Pomegranate", "Banana", "Blueberries", "Strawberries"
+            ],
+            "description": "Acai, pomegranate, banana, blueberries & strawberries smoothie"
+        },
+        {
+            "name": "ORANGE GINGER GLOW",
+            "ingredients": [
+                "Mango", "Fresh Ginger", "Green Apple", "Pineapple", "Carrot", "Orange Juice"
+            ],
+            "description": "Mango, fresh ginger, green apple, pineapple, carrot & orange juice smoothie"
+        }
+    ]
+}
