@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(201, 229, 248);
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+}
+li {
+    font-size: 2em;
+    list-style-type: none;
+}
+h2 ul li{
+    font-size: 1em;
+    list-style-type: none;
+}
